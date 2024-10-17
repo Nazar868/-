@@ -1,6 +1,1 @@
-touch app.py
-print("Hello world!")
-git add app.py
-git commit -m "Add app.py with 'Hello world!' message"
-git add .
-git commit -m "Fixed issues"
+
